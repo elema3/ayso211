@@ -1,1 +1,2 @@
 HOME_URL="https://www.debian.org/"
+debian 12
