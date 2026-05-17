@@ -1,0 +1,2 @@
+usuario=emanuel
+usuario ID=uid=1000(emanuel) gid=1000(emanuel) grupos=1000(emanuel),24(cdrom),25(floppy),29(audio),30(dip),44(video),46(plugdev),100(users),101(netdev),102(scanner),106(bluetooth),108(lpadmin)
